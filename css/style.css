@@ -71,11 +71,11 @@ header {
   padding: 20px;
 }
 
-.songs {
+.cars {
   margin: 0 0 20px;
 }
 
-.songs h2 {
+.cars h2 {
   clear: left;
   font-size: 100%;
   font-weight: normal;
@@ -94,9 +94,10 @@ header {
   border-bottom: 1px solid #ccc;
   width: 50%;
   float: left;
-  padding: 5px 10px;
+  /* padding: 5px 10px; */
   /* float: none; */
   /* width: inherit; */
+
 }
 
 .clearfix:after {
